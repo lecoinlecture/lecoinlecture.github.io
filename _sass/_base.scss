@@ -17,6 +17,18 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  //font-family: "Playwrite FR Trad", cursive;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--global-text-color);
+  //font-family: "Playwrite FR Trad", cursive;
+  font-family: "Dancing Script", cursive;
 }
 
 hr {
