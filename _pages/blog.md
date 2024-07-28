@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: Bibliothèque
+title: blog
 nav: true
 nav_order: 1
 pagination:
