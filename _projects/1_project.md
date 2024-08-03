@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Alma, La Liberté
+description: Timothée de Fombelle
+img: assets/img/publication_preview/Alma_t3.jpg
 importance: 1
 category: work
 related_publications: true

@@ -2,6 +2,11 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+ .clearfix {
+  margin-top: 2rem;
+ }
+
+
 // Typography
 
 p,
@@ -287,6 +292,7 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand {
     color: var(--global-text-color);
+    font-family: "Dancing Script", cursive;
   }
 
   .navbar-nav .nav-item .nav-link {
